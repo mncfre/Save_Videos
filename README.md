@@ -6,7 +6,7 @@ Requiements:
 - Pythonista for iOS
 
 You need to import the workflows:
-- SaveTube: https://workflow.is/workflows/4b8db8cfd52a4ff394e28861ef3c0529
-- DownTube: https://workflow.is/workflows/4dd5e57d0ed14897be25002cbd51c29a
+- SaveTube: https://workflow.is/workflows/8affc84b602f486a83840d24bda238a7
+- DownTube: https://workflow.is/workflows/6b237fd76f5c49e8b0f1f3ad61c32d24
 
 Usage: Just send link via "Open In" to SaveTube or run SaveTube and paste the link to be downloaded.
